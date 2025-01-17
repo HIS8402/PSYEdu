@@ -1,0 +1,14 @@
+﻿빌드 시작: 2025-01-10 오후 4:22:24
+     1>2 노드의 "c:\Users\DIT-983\documents\visual studio 2010\Projects\123\123\123.vcxproj" 프로젝트(build 대상)입니다.
+     1>PrepareForBuild:
+         "c:\users\dit-983\documents\visual studio 2010\Projects\123\Debug\" 디렉터리를 만들고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\123.unsuccessfulbuild"을(를) 만들고 있습니다.
+       FinalizeBuildStatus:
+         "Debug\123.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\123.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"c:\Users\DIT-983\documents\visual studio 2010\Projects\123\123\123.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.18
