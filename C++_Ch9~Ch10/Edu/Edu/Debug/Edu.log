@@ -1,0 +1,5 @@
+﻿  FirstOperationOverloading.cpp
+c:\users\dit-983\source\repos\edu\edu\firstoperationoverloading.cpp(14): error C2808: 단항 'operator ~'에 정식 매개 변수가 너무 많습니다.
+c:\users\dit-983\source\repos\edu\edu\firstoperationoverloading.cpp(14): error C2333: 'Point::operator ~': 함수 선언에 오류가 있습니다. 함수 본문을 건너뜁니다.
+c:\users\dit-983\source\repos\edu\edu\firstoperationoverloading.cpp(25): error C2675: 단항 '-': 'Point'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
+c:\users\dit-983\source\repos\edu\edu\firstoperationoverloading.cpp(25): error C2088: '-': class에 맞지 않습니다.
