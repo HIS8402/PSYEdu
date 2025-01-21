@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CImageRgn", "CImageRgn\CImageRgn.vcxproj", "{CA2BD548-4C2E-4E08-A162-563334AFBDCC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CommandDemo", "CommandDemo\CommandDemo.vcxproj", "{5F825442-B620-468E-B142-DC4D03C8243D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2BD548-4C2E-4E08-A162-563334AFBDCC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA2BD548-4C2E-4E08-A162-563334AFBDCC}.Debug|Win32.Build.0 = Debug|Win32
+		{CA2BD548-4C2E-4E08-A162-563334AFBDCC}.Release|Win32.ActiveCfg = Release|Win32
+		{CA2BD548-4C2E-4E08-A162-563334AFBDCC}.Release|Win32.Build.0 = Release|Win32
+		{5F825442-B620-468E-B142-DC4D03C8243D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F825442-B620-468E-B142-DC4D03C8243D}.Debug|Win32.Build.0 = Debug|Win32
+		{5F825442-B620-468E-B142-DC4D03C8243D}.Release|Win32.ActiveCfg = Release|Win32
+		{5F825442-B620-468E-B142-DC4D03C8243D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
